@@ -10,18 +10,7 @@ O grande diferencial é o **Match**, que mostra a compatibilidade entre os gosto
 
 ## ✨ Funcionalidades
 
-* 🎬 Descoberta de filmes e séries
-* ⭐ Avaliação de títulos
-* 📝 Reviews da comunidade
-* ❤️ Favoritos
-* 📌 Lista de conteúdos para assistir
-* 📚 Listas personalizadas
-* 👤 Perfil de usuário
-* 👥 Interação entre usuários
-* 🤝 **Match de compatibilidade**
-* 🔎 Busca por filmes e séries
-* 📺 Área específica para séries
-
+O Framy conta com descoberta de filmes e séries, avaliações, reviews da comunidade, favoritos, lista de conteúdos para assistir, listas personalizadas, perfis de usuários, interação entre usuários, busca por títulos, área específica para séries e o sistema de Match de compatibilidade entre usuários
 ---
 
 ## 🤝 Match
