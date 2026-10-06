@@ -1,66 +1,68 @@
-# 🎬 Framy
+# Projeto Framy 🎬
 
-O **Framy** é uma rede social para quem ama filmes e séries.
+## 📝 Sobre o Projeto
 
-A proposta é unir **descoberta de conteúdo, avaliações e interação social** em um só lugar. No Framy, você pode registrar o que assistiu, avaliar filmes e séries, escrever reviews, criar listas e descobrir pessoas com gostos parecidos.
+O Framy é uma plataforma de descoberta e interação para filmes e séries, inspirada na experiência de redes sociais voltadas para o entretenimento.
 
-O grande diferencial é o **Match**, que mostra a compatibilidade entre os gostos de dois usuários e apresenta filmes e séries que eles têm em comum ou que podem gostar.
+O projeto tem como objetivo permitir que usuários descubram novos filmes e séries, registrem o que assistiram, avaliem conteúdos, escrevam reviews, criem listas e interajam com outros usuários.
+
+Seu principal diferencial é o sistema de Match, que compara os gostos de diferentes usuários e mostra uma porcentagem de compatibilidade, além de indicar filmes e séries que podem ser interessantes para ambos.
 
 ---
 
-## ✨ Funcionalidades
+## 🛠️ Tecnologias, Ferramentas e Infraestrutura
 
-O Framy conta com descoberta de filmes e séries, avaliações, reviews da comunidade, favoritos, lista de conteúdos para assistir, listas personalizadas, perfis de usuários, interação entre usuários, busca por títulos, área específica para séries e o sistema de Match de compatibilidade entre usuários
+### Tecnologias:
 
+- Frontend: Figma
+- Desenvolvimento: a definir
+- Banco de Dados: a definir
+
+### Ferramentas:
+
+- GitHub, para versionamento e organização do projeto
+- Figma, para prototipação e desenvolvimento da interface
+
+### Interface das Telas:
+
+---
+
+---
 
 ## 🤝 Match
 
-O principal diferencial do Framy.
+O Match é o principal diferencial do Framy.
 
-O sistema compara as avaliações e preferências dos usuários para mostrar uma porcentagem de compatibilidade.
+A funcionalidade compara as avaliações e preferências de dois usuários para calcular uma porcentagem de compatibilidade.
 
-> **Você + Julia — 87% de compatibilidade**
+Por exemplo:
 
-Também é possível visualizar títulos que vocês amaram, opiniões diferentes e recomendações baseadas nos gostos em comum.
+**Você + Julia — 87% de compatibilidade**
 
----
-
-## 🎨 Proposta
-
-O Framy busca criar uma experiência simples, moderna e cinematográfica, combinando elementos de:
-
-**🎬 Diário de filmes + ⭐ avaliações + 👥 rede social + 🔎 descoberta**
-
-Tudo em uma única plataforma.
+O usuário poderá visualizar conteúdos que ambos gostam, títulos em que possuem opiniões diferentes e recomendações baseadas nos gostos em comum.
 
 ---
 
-## 🚧 Status
+## 📚 Metodologia
 
-**Em desenvolvimento 🚀**
+O projeto utiliza princípios de metodologia ágil para organizar e acompanhar o desenvolvimento das atividades.
 
-O projeto está sendo desenvolvido como um projeto acadêmico e experimental, com foco em experiência do usuário, interface e desenvolvimento web.
+A organização será realizada por meio de:
 
----
-
-## 🛠️ Tecnologias
-
-> Tecnologias serão adicionadas conforme o desenvolvimento do projeto.
+- Kanban, para organizar e acompanhar as tarefas;
+- GitHub Projects, para gerenciamento das atividades;
+- GitHub, para versionamento e acompanhamento do código.
 
 ---
 
-## 📸 Preview
+## 🚧 Status do Projeto
 
-*Em breve.*
+Em desenvolvimento.
+
+O Framy está sendo desenvolvido como um projeto acadêmico, com foco em experiência do usuário, interface, desenvolvimento web e interação social.
 
 ---
 
 ## 👩‍💻 Projeto
 
-Desenvolvido por **Maria da Glória Baracat**.
-
----
-
-### 🎬 Framy
-
-**Encontre histórias. Compartilhe opiniões. Descubra conexões.**
+Desenvolvido por Maria da Glória Baracat.
