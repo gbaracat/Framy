@@ -14,8 +14,8 @@ Seu principal diferencial é o sistema de Match, que compara os gostos de difere
 
 ### Tecnologias:
 
-- Frontend: Figma
-- Desenvolvimento: a definir
+- Frontend: Figma, Stitch IA
+- Desenvolvimento: Python 
 - Banco de Dados: a definir
 
 ### Ferramentas:
@@ -26,6 +26,7 @@ Seu principal diferencial é o sistema de Match, que compara os gostos de difere
 ### Interface das Telas:
 
 ---
+
 
 ---
 
@@ -52,7 +53,7 @@ A organização será realizada por meio de:
 - Kanban, para organizar e acompanhar as tarefas;
 - GitHub Projects, para gerenciamento das atividades;
 - GitHub, para versionamento e acompanhamento do código.
-
+- Metodo Espiral.
 ---
 
 ## 🚧 Status do Projeto
