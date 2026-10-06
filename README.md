@@ -26,8 +26,7 @@ Seu principal diferencial é o sistema de Match, que compara os gostos de difere
 ### Interface das Telas:
 
 ---
-
-
+* [Telas](https://www.figma.com/design/3R5QdApWMxT9W3YbMPYVuw/Framy?node-id=0-1&p=f&t=IRVD4Sgry8euc2Ha-0)
 ---
 
 ## 🤝 Match
